@@ -1,4 +1,4 @@
-package com.back;
+package org.example;
 import java.io.*;
 
 public class Main {
